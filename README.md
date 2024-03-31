@@ -1,6 +1,7 @@
 KART MANIA
 
 - JOGO DESENVOLVIDO PARA ENTREGA DO TRABALHO DE BANCO DE DADOS RELACIONAL
+
 Objetivo desenvolver Jogo Low-Code com Banco de Dados Relacional
 
 Link do Jogo: https://kartmaniaconstruc.netlify.app/
